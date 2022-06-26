@@ -10,7 +10,7 @@ This repo contains a Simscape ball balancing table model. Linear state feedback 
 
 |                            Reference point at corner                           |                            Reference point at center                            |
 |:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
-|<img src="animations/middleReferencePoint.gif" width="400" height="350">| <img src="animations/middleReferencePoint.gif" width="400" height="350">|
+|<img src="animations/cornerReferencePoint.gif" width="400" height="350">| <img src="animations/middleReferencePoint.gif" width="400" height="350">|
 
 ## Time-Varying reference trajectory
 
